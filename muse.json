@@ -1,8 +1,8 @@
 {
   "service": "Muse",
   "period": "weekly",
-  "used_percent": 2,
-  "remaining_percent": 98,
+  "used_percent": 3,
+  "remaining_percent": 97,
   "reset_at": "2026-12-04T13:30:00+09:00",
-  "updated_at": "2026-11-27T17:46:10+09:00"
+  "updated_at": "2026-11-27T17:52:11+09:00"
 }
