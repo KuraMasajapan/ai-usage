@@ -1,13 +1,13 @@
 {
   "service": "Codex",
   "period": "weekly",
-  "used_percent": 21,
-  "remaining_percent": 79,
+  "used_percent": 22,
+  "remaining_percent": 78,
   "reset_at": "2026-12-02T15:09:42+09:00",
-  "updated_at": "2026-11-27T19:52:17+09:00",
+  "updated_at": "2026-11-27T20:52:19+09:00",
   "five_hour": {
-    "used_percent": 0,
-    "remaining_percent": 100,
+    "used_percent": 9,
+    "remaining_percent": 91,
     "reset_at": "2026-11-27T22:46:20+09:00"
   }
 }
